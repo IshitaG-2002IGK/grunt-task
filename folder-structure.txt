@@ -1,0 +1,13 @@
+Projects/Challenge:
+dest/
+	index.html
+	random_number_generator.js
+node_modules
+src/
+	index.html
+	random_number_generator.js
+	style.scss
+	.score.sh
+Gruntfile.js
+package-lock.json
+package.json
